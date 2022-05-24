@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400&display=swap');
 
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
+
 
 body{
     background-image: url(https://www.simpleimageresizer.com/_uploads/photos/b1f88df0/smoothie_menu_back_1_1904x950.jpg);
