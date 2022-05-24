@@ -6,6 +6,8 @@
 
 body{
     background-image: url(https://www.simpleimageresizer.com/_uploads/photos/b1f88df0/smoothie_menu_back_1_1904x950.jpg);
+    height: auto;
+    width: auto;
 }
 
 h1, h2{
